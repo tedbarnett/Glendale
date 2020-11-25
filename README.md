@@ -1,2 +1,3 @@
 # Glendale
-Unity VR reconstruction of Forest Avenue in Glendale, Ohio c.1975
+
+Unity VR and XR reconstruction of Forest Avenue in Glendale, Ohio c.1975
